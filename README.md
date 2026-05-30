@@ -109,5 +109,5 @@ git init
 git add .
 git commit -m "Initial commit - Git Version Control Project"
 git branch -M main
-git remote add origin https://github.com/USERNAME/git-version-control-repository-management.git
+git remote add origin https://github.com/Ravi_Shete_26/git-version-control-repository-management.git
 git push -u origin main
